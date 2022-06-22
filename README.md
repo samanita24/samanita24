@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning PYTHON
 - 💞️ I’m looking to collaborate on python projects
-- 📫 How to reach me samanita24.mitra@gmailcom
+- 📫 How to reach me samanita24.mitra@gmail.com
 
 <!---
 samanita24/samanita24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
